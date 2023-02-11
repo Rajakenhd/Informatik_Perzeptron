@@ -1,0 +1,3 @@
+/cygdrive/h/projekte/Informatik_Perzeptron/cmake-build-debug/CMakeFiles/Informatik_Perzeptron.dir
+/cygdrive/h/projekte/Informatik_Perzeptron/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/h/projekte/Informatik_Perzeptron/cmake-build-debug/CMakeFiles/rebuild_cache.dir
